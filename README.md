@@ -1,0 +1,1 @@
+# NttCoin.sol
